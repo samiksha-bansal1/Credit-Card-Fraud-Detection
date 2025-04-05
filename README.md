@@ -37,7 +37,7 @@ This project aims to build an effective machine learning pipeline to detect frau
   - Confusion Matrix
   - Precision, Recall, F1-score
   - Area Under Precision-Recall Curve (PR AUC)
-  - ROC-AUC (if applicable)
+  - ROC-AUC 
 
 ### 4. ✅ Key Results
 - Improved recall and F1-score after applying SMOTE
